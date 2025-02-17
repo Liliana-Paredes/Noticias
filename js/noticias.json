@@ -1,0 +1,289 @@
+[
+    {
+        "filtro": "articulos",
+        "imagen": "img/post-1.jpg",
+        "categoria": "Articulos",
+        "url": "post-page.html",
+        "titulo": "Discapacidad en la sociedad",
+        "fecha": "15 Feb 2024",
+        "descripcion": "Descubre por qué la discapacidad en la sociedad afecta a tres áreas importantes: el empleo, la educación y la accesibilidad.",
+        "contenido": [{
+            "intro": "La discapacidad es una condición que puede afectar a cualquier persona en cualquier momento de su vida. La sociedad debe estar preparada para ofrecer igualdad de oportunidades a todas las personas, independientemente de sus habilidades o limitaciones."}, 
+            {
+            "subtitulo": "Empleo, Educación y Accesibilidad",
+            "info": "La discapacidad puede ser una barrera para conseguir empleo y desarrollar una carrera profesional. A menudo, las personas con discapacidad enfrentan estereotipos y prejuicios que dificultan su inclusión en el mercado laboral. Las empresas pueden mejorar su inclusión laboral a través de políticas inclusivas que fomenten la contratación de personas con discapacidad. Estas políticas pueden incluir la adaptación de puestos de trabajo, la formación en diversidad y la inclusión de personas con discapacidad en los procesos de toma de decisiones de la empresa. La educación es un derecho humano fundamental y todas las personas, independientemente de sus habilidades o limitaciones, deben tener acceso a ella. La inclusión de personas con discapacidad en el sistema educativo es clave para garantizar la igualdad de oportunidades.La educación inclusiva implica la adaptación de los programas educativos y de los entornos escolares para satisfacer las necesidades de todos los estudiantes. Esto puede incluir la formación de profesores en diversidad y discapacidad, la adaptación de materiales educativos y la creación de espacios accesibles. Accesibilidad. La accesibilidad es fundamental para garantizar que todas las personas puedan participar plenamente en la sociedad. Las personas con discapacidad se enfrentan a barreras de accesibilidad en muchos aspectos de la vida, como el transporte público, los edificios públicos y privados, los espacios públicos y los servicios en línea.La eliminación de barreras de accesibilidad requiere la implementación de políticas y prácticas inclusivas en todas las áreas de la sociedad. Esto puede incluir la adaptación de los espacios físicos, la promoción de tecnologías de asistencia y la formación en accesibilidad para profesionales en todas las áreas."
+            },
+            {
+            "subtitulo": "Etiquetas y prejuicios",
+            "info": "Las etiquetas y los prejuicios son una de las principales barreras que enfrentan las personas con discapacidad en la sociedad.La estigmatización y la discriminación pueden limitar las oportunidades de las personas con discapacidad en el empleo, la educación y otros aspectos de la vida.Es importante que la sociedad se aleje de las etiquetas y prejuicios y reconozca la diversidad y las habilidades de todas las personas.Debemos enfatizar la importancia de potencializar y desarrollar las habilidades y capacidades de las personas con discapacidad, y no enfocarnos en sus limitaciones."
+            },
+            {
+            "subtitulo": "Debemos ayudar a que las personas con discapacidad puedan valerse, potencializarse y desarrollarse como las demás personas.",
+            "info": "La inclusión de personas con discapacidad en la sociedad es un proceso continuo que requiere un enfoque inclusivo y el compromiso de toda la sociedad. Es importante que trabajemos juntos para garantizar que todas las personas, independientemente de sus habilidades o limitaciones, tengan igualdad de oportunidades para desarrollarse y valerse en la sociedad."
+        }]
+    },
+    {
+        "filtro": "articulos",
+        "imagen": "img/post-3.jpg",
+        "categoria": "Articulos",
+        "url": "post-page.html",
+        "titulo": "Curiosidades que no sabías sobre la cultura sorda",
+        "fecha": "10 Feb 2024",
+        "descripcion": "La Cultura Sorda es una comunidad vibrante y diversa que se extiende por todo el mundo. La cultura sorda tiene sus propias tradiciones, costumbres y lenguajes.",
+        "contenido":[ {
+            "intro": "La Cultura Sorda es una comunidad vibrante y diversa que se extiende por todo el mundo. La cultura sorda tiene sus propias tradiciones, costumbres y lenguajes"},
+            {
+            "subtitulo": "Protegida por las Naciones Unidas",
+            "info": "La cultura sorda ha sido reconocida como una minoría lingüística y cultural por las Naciones Unidas.En 2006, la Convención sobre los Derechos de las Personas con Discapacidad reconoció la lengua de señas como una lengua natural y reconocida por el estado en la que los sordos pueden ejercer su derecho a usar y aprender.Esta convención establece que todas las personas con discapacidad, incluidas las personas sordas, tienen derecho a la igualdad de oportunidades, la educación y la igualdad ante la ley."
+            },
+            {
+            "subtitulo": "Se considera una cultura étnica",
+            "info": "La cultura sorda es considerada una cultura étnica debido a sus propias tradiciones, valores, lenguajes y normas sociales únicas.Muchos miembros de la comunidad sorda comparten un sentido de identidad cultural y comunitaria que se basa en su experiencia compartida de ser sordos.La cultura sorda ha desarrollado su propia literatura, arte, música y películas que reflejan su perspectiva única del mundo."
+            },
+            {
+            "subtitulo": "La fama del aplauso silencioso",
+            "info": "En la cultura sorda, el aplauso silencioso es una forma común de mostrar apreciación y respeto en los eventos en los que el ruido no es deseado, como durante una presentación de lenguaje de señas.En lugar de aplaudir, la audiencia agita las manos en el aire para crear un efecto visual similar al del aplauso.Esta tradición ha sido adoptada por personas que no son sordas en eventos similares en todo el mundo."
+            },
+            {
+            "subtitulo": "Incluso el humor es diferente",
+            "info": "La cultura sorda tiene su propio estilo de humor, que a menudo se basa en el juego de palabras y la ironía visual.Los chistes en lengua de señas pueden depender de la gramática y la estructura únicas del lenguaje de señas, lo que significa que algunos chistes no pueden traducirse directamente a otros idiomas hablados.Además, los chistes de la cultura sorda a menudo se basan en la experiencia compartida de ser sordo y pueden ser exclusivos de la comunidad sorda. En resumen, la cultura sorda es una comunidad diversa y vibrante que ha desarrollado su propia identidad cultural y lingüística única."
+        }]
+    },
+    {
+        "filtro": "articulos",
+        "imagen": "img/post-1.jpg",
+        "categoria": "Articulos",
+        "url": "post-page.html",
+        "titulo": "Personas con discapacidad visual",
+        "fecha": "10 Feb 2024",
+        "descripcion": "La discapacidad visual es una condición que afecta a un gran número de personas en todo el mundo. Las personas con discapacidad visual tienen dificultades para ver, lo que puede afectar su capacidad para realizar tareas cotidianas y su calidad de vida.",
+        "contenido": [{
+            "intro": "La discapacidad visual es una condición que afecta a un gran número de personas en todo el mundo. Las personas con discapacidad visual tienen dificultades para ver, lo que puede afectar su capacidad para realizar tareas cotidianas y su calidad de vida."},
+            {
+            "subtitulo": "¿Quiénes son?",
+            "info": "Las personas con discapacidad visual son aquellas que tienen una disminución de la capacidad para ver, ya sea de forma parcial o total. Esta condición puede ser congénita o adquirida durante la vida. Las personas con discapacidad visual tienen necesidades especiales para poder acceder a la información y realizar actividades cotidianas, como la lectura de textos, la escritura, el desplazamiento, el acceso a la información en línea y la realización de tareas en el trabajo y en la escuela."
+            },
+            {
+            "subtitulo": "Tipos de Discapacidad Visual",
+            "info": "Existen diferentes tipos de discapacidad visual, cada uno con su propia sintomatología y características específicas, como la ceguera total, la ceguera nocturna, la miopía, la hipermetropía, el astigmatismo, el estrabismo, entre otras."
+            },
+            {
+            "subtitulo": "Apoyos",
+            "info": "Afortunadamente, existen diversos apoyos disponibles para las personas con discapacidad visual que les permiten superar las barreras que enfrentan. Estos incluyen: 1. Tecnología de asistencia: como las lupas electrónicas, los lectores de pantalla, las teclas de acceso rápido, entre otros, que permiten a las personas con discapacidad visual acceder a la información y realizar actividades cotidianas de manera más fácil y eficiente. 2. Servicios de apoyo: como los servicios de guía, los perros guía, los servicios de transporte y otros servicios que les permiten a las personas con discapacidad visual desplazarse con mayor facilidad y seguridad. En conclusión, es importante que estas personas reciban el apoyo y la atención necesarios para poder disfrutar de una vida plena y autónoma."
+        }]
+    },
+    {
+        "filtro": "articulos",
+        "imagen": "img/post-1.jpg",
+        "categoria": "Articulos",
+        "url": "post-page.html",
+        "titulo": "La discriminación a personas discapacitadas en el Perú",
+        "fecha": "10 Feb 2024",
+        "descripcion": "A pesar de que la Ley General de Personas con Discapacidad en Perú establece un marco legal para garantizar el respeto y la inclusión de las personas con discapacidad, en la realidad aún existen numerosas barreras que impiden que se cumpla su objetivo",
+        "contenido": [ {
+            "intro": "A pesar de que la Ley General de Personas con Discapacidad en Perú establece un marco legal para garantizar el respeto y la inclusión de las personas con discapacidad, en la realidad aún existen numerosas barreras que impiden que se cumpla su objetivo. La discriminación hacia este grupo de personas es una realidad presente en la sociedad peruana, que se manifiesta de diversas formas."
+        },
+        {
+            "subtitulo": "¿Se cumple la Ley General de Personas con Discapacidad?",
+            "info": "La Ley General de Personas con Discapacidad en Perú establece que se deben garantizar los derechos de igualdad de oportunidades y la no discriminación en todos los ámbitos de la vida, incluyendo el acceso al trabajo, la educación, la salud, la cultura y el deporte. Sin embargo, en la práctica, las personas con discapacidad enfrentan numerosas barreras para acceder a estos derechos. Muchas veces, estas barreras son el resultado de la falta de voluntad política para implementar los cambios necesarios para asegurar el acceso a estos derechos."
+        },
+        {
+            "subtitulo": "Las mujeres, doblemente vulnerables",
+            "info": "Las mujeres con discapacidad enfrentan una doble discriminación, tanto por su género como por su discapacidad. Algunas de las formas en que se manifiesta esta discriminación son:"
+        },
+        {
+            "subtitulo2": "Segregación laboral",
+            "info2": "Las mujeres con discapacidad tienen mayores dificultades para acceder al mercado laboral y, cuando lo hacen, las suelen relegar a trabajos precarios y mal remunerados. A menudo, se las excluye de la formación profesional y se las niegan oportunidades de ascenso."
+        },
+        {
+            "subtitulo2": "Segregación social",
+            "info2": "Las mujeres con discapacidad también enfrentan barreras en su vida social. En muchos casos, son marginadas y aisladas de la sociedad, lo que les impide participar plenamente en actividades comunitarias y culturales."
+        },
+        {
+            "subtitulo2": "Escaso acceso a la educación",
+            "info2": "Las mujeres con discapacidad tienen menos oportunidades de acceder a la educación y de completar sus estudios que las mujeres sin discapacidad. La falta de acceso a la educación las deja en una posición aún más vulnerable en el mercado laboral y en su vida social."
+        },
+        {
+            "subtitulo2": "Sobreprotección",
+            "info2": "Las mujeres con discapacidad son a menudo sobreprotegidas por sus familiares y la sociedad, lo que puede limitar su capacidad para tomar decisiones y ejercer su autonomía. La sobreprotección también puede limitar su capacidad para desarrollar habilidades sociales y de trabajo que permitan su independencia. En conclusión, la discriminación hacia las personas con discapacidad es una realidad en Perú, y las mujeres con discapacidad se enfrentan a una doble vulnerabilidad. Es importante que se tomen medidas concretas para garantizar la igualdad de oportunidades y la no discriminación en todos los ámbitos de la vida, y que se trabaje para eliminar las barreras que impiden el pleno acceso a los derechos de las personas con discapacidad. Solo así podremos construir una sociedad inclusiva y justa para todos."
+        }]
+    },
+    {
+        "filtro": "articulos",
+        "imagen": "img/post-3.jpg",
+        "categoria": "Articulos",
+        "url": "post-page.html",
+        "titulo": "Cómo tratar la tartamudez",
+        "fecha": "10 Feb 2024",
+        "descripcion": "La tartamudez es un trastorno de la fluidez del habla que se caracteriza por interrupciones en la emisión de palabras, repeticiones de sonidos, sílabas, palabras o frases, prolongaciones de sonidos, bloqueos en la emisión del habla y dificultad para iniciar el habla.",
+        "contenido": {
+            "subtitulo": "Incidencia en adultos y en los niños",
+            "info": "La incidencia de la tartamudez varía dependiendo de la edad de la población. Se estima que la tartamudez afecta a 1 de cada 100 personas adultas; mientras que, en la población infantil, la prevalencia es mayor, afectando aproximadamente a 4 de cada 100 niños en algún momento de su desarrollo del habla.La tartamudez es más común en niños entre 2 y 6 años, ya que es cuando están aprendiendo a hablar y pueden presentar algunas dificultades temporales para coordinar los músculos necesarios para el habla fluida. Aproximadamente el 80% de los niños que presentan tartamudez en esta edad superan el problema de forma espontánea.Sin embargo, en algunos casos, la tartamudez puede persistir en la adolescencia y en la edad adulta. Se estima que aproximadamente el 1% de la población adulta experimenta tartamudez persistente, lo que puede afectar a su capacidad para comunicarse de forma eficaz, tanto en situaciones sociales como en las laborales.",
+            "subtitulo": "Tratamientos de la tartamudez",
+            "info": "El tratamiento para la tartamudez puede variar dependiendo del caso y la gravedad de la condición.Algunas opciones de tratamiento incluyen terapia del habla, terapia psicológica, medicamentos, dispositivos de ayuda y grupos de apoyo. Veamos a continuación cada uno de ellos.",
+            "subtitulo2": "Terapia del habla",
+            "info2": "La terapia del habla es la forma más común de tratamiento y puede involucrar una variedad de técnicas, como la terapia de reducción de la tensión, que se enfoca en reducir la tensión muscular que puede estar contribuyendo a la tartamudez. La terapia de fluidez también puede utilizarse para mejorar la coordinación de los movimientos necesarios para el habla fluida.",
+            "subtitulo2": "Terapia psicológica",
+            "info2": "La terapia psicológica puede ayudar a las personas con tartamudez a manejar la ansiedad y el estrés relacionados con el trastorno.",
+            "subtitulo2": "Medicamentos",
+            "info2": "Los medicamentos, como los tranquilizantes, también pueden ayudar a reducir los síntomas de la tartamudez.",
+            "subtitulo2": "Dispositivos de ayuda",
+            "info2": "Los dispositivos de ayuda, como los dispositivos de retraso de la audición, pueden proporcionar retroalimentación y ayudar a las personas a controlar su habla.",
+            "subtitulo2": "Grupos de apoyo",
+            "info2": "Los grupos de apoyo pueden proporcionar un ambiente de apoyo donde las personas con tartamudez pueden compartir sus experiencias y aprender de otros que han pasado por situaciones similares."
+        }
+    },
+    {
+        "filtro": "articulos",
+        "imagen": "img/post-1.jpg",
+        "categoria": "Articulos",
+        "url": "post-page.html",
+        "titulo": "La lengua de señas en Perú (LSP)",
+        "fecha": "10 Feb 2024",
+        "descripcion": "La Comunidad Sorda está integrada por personas sordas y oyentes, de cualquier condición personal y social, que comparten el mismo legado lingüístico y cultural.",
+        "contenido": {
+            "subtitulo": "Comunidad sorda en Perú",
+            "info": "La Comunidad Sorda está integrada por personas sordas y oyentes, de cualquier condición personal y social, que comparten el mismo legado lingüístico y cultural. Se define el Mundo Sordo como un grupo de personas con características comunes y una forma de vida particular, que poseen conocimientos de su mundo y comparten experiencias de lo que es ser Sordo (Lane, H. et al, 1996). Según el Censo Nacional de Población (INEI-2017), en el Perú hay 232 176 personas con dificultad para oír, cifra que representa el 7,6 % de las personas con discapacidad. De acuerdo con este censo, 8 790 personas con discapacidad registraron la Lengua de Señas Peruana (LSP) como lengua materna.",
+            "subtitulo": "Educación escolar de la comunidad sorda infantil",
+            "info": "“En el Perú, niñas, niños y adolescentes sordos no tienen una educación de calidad. Quienes acceden a la educación, abandonan los estudios y no logran terminar la secundaria. Asimismo, aquellas pocas personas sordas que terminan el colegio tienen muchas barreras para acceder a la educación superior. Esta situación demanda una respuesta inmediata para hacer efectivo el derecho fundamental a la educación de estas personas, sin discriminación y sobre la base de la igualdad de oportunidades”, acotó la funcionaria. En este contexto, la Defensoría del Pueblo recuerda al Estado la obligación de promover la formación de docentes e intérpretes con dominio de la LSP, así como el desarrollo de actividades de investigación, enseñanza y difusión de esta Lengua de señas y otros sistemas alternativos, a fin de asegurar el acceso de las personas sordas a los servicios públicos y el ejercicio de sus derechos.",
+            "subtitulo": "Forma de vida",
+            "info": "Muchas personas que pertenecen al mundo sordo nacieron en él, pero existe también un número importante que se incorpora en la adultez. Las personas sordas tienen dificultades para acceder a servicios públicos por la falta de intérpretes en lengua de señas peruana. Este mundo tiene su propia lengua y cultura, no les gusta ser llamados impedidos auditivos, discapacitados o ser calificados por lo que no tienen; para ellos lo importante es lo que son, personas eminentemente visuales, y lo que tienen para comunicarse: sus manos y cuerpo. Los sordos, como personas visuales, conforman una comunidad con una cultura propia, comparten una serie de características que difieren del grupo mayoritario oyente, presentando características semejantes a las de otros pueblos minoritarios, como por ejemplo, los pueblos indígenas. Tienen una lengua viso-gestual que les es propia, la Lengua de Señas, y una serie de costumbres y valores surgidos de su condición visual, como la manera de saludarse, de despedirse, de felicitar y de aplaudir, entre otras. Poseen también sus propias reglas en las interacciones sociales, conformando clubes y asociaciones donde comparten sus intereses, gustos, necesidades y en los cuales se permiten ser y expresarse en toda su dimensión.",
+            "subtitulo": "Lengua de señas peruana (LSP)",
+            "info": "La lengua de señas nacional viene siendo designada, en la literatura especializada, con los nombres de “Lenguaje de Señas Peruanas”, “Lengua de Señas Peruanas” y “Lengua de Señas Peruana (LSP)”, siendo este último el que fue reconocido por la República del Perú en 2010 (en La Ley 29535). Esta lengua posee su propia gramática, sintaxis y léxico. Es una lengua autóctona, originaria del Perú, creada y utilizada por la Comunidad sorda del país. Su léxico y gramática es propio, y difiere del de cualquier otra lengua oral en Perú, así como de otras lenguas de señas en el mundo, si bien cuenta con algunas influencias externas, de otras lenguas de señas, como de la lengua de signos española y de la lengua de señas americana, entre otras."
+        }
+    },
+    {
+        "filtro": "articulos",
+        "imagen": "img/post-3.jpg",
+        "categoria": "Articulos",
+        "url": "post-page.html",
+        "titulo": "La hiperactividad (TDAH)",
+        "fecha": "10 Feb 2024",
+        "descripcion": "El TDAH (Trastorno por Déficit de Atención e Hiperactividad) es un trastorno neurobiológico del desarrollo que se caracteriza por problemas en la atención, la impulsividad y la hiperactividad.",
+        "contenido": {
+            "subtitulo": "Qué es el TDAH",
+            "info": "El TDAH (Trastorno por Déficit de Atención e Hiperactividad) es un trastorno neurobiológico del desarrollo que se caracteriza por problemas en la atención, la impulsividad y la hiperactividad.",
+            "subtitulo": "Síntomas",
+            "info": "Las personas con TDAH pueden tener dificultades para concentrarse en tareas que requieren atención sostenida, ser impulsivos y actuar sin pensar en las consecuencias, y tener una excesiva actividad física y mental. Este trastorno puede afectar negativamente a la vida académica, laboral y social de las personas que lo padecen, pero con el tratamiento adecuado, pueden aprender a controlar sus síntomas y llevar una vida plena y satisfactoria.",
+            "subtitulo": "Tipos de Tratamientos",
+            "info": "Existen varios tipos de tratamiento para el Trastorno por Déficit de Atención e Hiperactividad (TDAH), y el enfoque de tratamiento dependerá de la severidad de los síntomas, la edad del individuo y otros factores personales. Algunos de los tratamientos más comunes son:",
+            "subtitulo2": "Conductual",
+            "info": "La terapia conductual es una forma de tratamiento en la que los pacientes aprenden a modificar su forma de comportarse mediante técnicas de recompensa y refuerzo positivo. Esto puede incluir el entrenamiento en habilidades sociales, técnicas de relajación y estrategias para manejar el tiempo. Además, se acompaña de terapia psicológica, como la terapia cognitivo-conductual, puede ayudar a las personas con TDAH a comprender y manejar sus emociones, mejorar su autoestima y desarrollar habilidades para enfrentar situaciones difíciles. Lo que les permitirá modificar el comportamiento.",
+            "subtitulo2": "Farmacológico",
+            "info": "Los medicamentos estimulantes, como el metilfenidato y la anfetamina, son a menudo prescritos para reducir la hiperactividad y mejorar la atención en personas con TDAH. Estos medicamentos ayudan a regular los niveles de dopamina y norepinefrina en el cerebro, mejorando la función cognitiva. Los cambios en la dieta, el ejercicio regular y la implementación de rutinas diarias estructuradas también pueden ayudar a reducir los síntomas de TDAH y mejorar la calidad de vida. Es importante tener en cuenta que cada persona es única y puede responder de manera diferente a los tratamientos. Es recomendable trabajar con un profesional de la salud mental para desarrollar un plan de tratamiento individualizado y efectivo."
+        }
+    },
+    {
+        "filtro": "articulos",
+        "imagen": "img/post-5.jpg",
+        "categoria": "Articulos",
+        "url": "post-page.html",
+        "titulo": "Personas con discapacidad múltiple",
+        "fecha": "10 Feb 2024",
+        "descripcion": "La discapacidad múltiple se refiere a la presencia de dos o más discapacidades en una misma persona. Estas pueden afectar a diferentes áreas del desarrollo, como la motricidad, la comunicación, la cognición, la visión o la audición. Estas discapacidades pueden ser congénitas o adquiridas y pueden tener diferentes grados de severidad.",
+        "contenido": {
+            "intro": "La discapacidad múltiple se refiere a la presencia de dos o más discapacidades en una misma persona. Estas pueden afectar a diferentes áreas del desarrollo, como la motricidad, la comunicación, la cognición, la visión o la audición. Estas discapacidades pueden ser congénitas o adquiridas y pueden tener diferentes grados de severidad. Las personas con discapacidad múltiple pueden necesitar apoyo en múltiples áreas de su vida, incluyendo la movilidad, la comunicación, la educación, el trabajo y las relaciones sociales. Es importante reconocer y respetar las capacidades y necesidades individuales de cada persona con discapacidad múltiple, y proporcionar los recursos y apoyos necesarios para que así puedan participar plenamente en la sociedad.",
+            "subtitulo": "Datos sobre la discapacidad múltiple",
+            "info": "Según datos de la Organización Mundial de la Salud (OMS), alrededor del 15% de la población mundial vive con algún tipo de discapacidad, esto supone en números más de 1.000 millones de personas. Sin embargo, no hay cifras precisas sobre la prevalencia específica de la discapacidad múltiple. En cuanto a los niños, se estima que alrededor del 10% de los niños en todo el mundo tienen alguna forma de discapacidad, y muchos de ellos tienen discapacidad múltiple. La discapacidad múltiple puede tener un impacto significativo en el desarrollo y el bienestar de los niños, y puede requerir apoyo adicional en áreas como la educación y la atención médica. La discapacidad múltiple también puede contribuir a la pobreza y la exclusión social. Las personas con discapacidad a menudo enfrentan barreras para acceder a la educación, el trabajo y otros recursos, lo que puede limitar su capacidad para participar plenamente en la sociedad y lograr una vida independiente y satisfactoria. Además, muchos sistemas de apoyo y servicios para personas con discapacidad son insuficientes o inexistentes en muchos países, lo que puede empeorar las desigualdades y la exclusión."
+        }
+    },
+    {
+        "filtro": "articulos",
+        "imagen": "img/post-5.jpg",
+        "categoria": "Articulos",
+        "url": "post-page.html",
+        "titulo": "Los trastornos DIS en niños",
+        "fecha": "10 Feb 2024",
+        "descripcion": "El término «DIS» se utiliza para referirse a diferentes trastornos del neurodesarrollo que afectan habilidades específicas en niños.",
+        "contenido": {
+            "intro": "La discapacidad visual es una condición que afecta a un gran número de personas en todo el mundo. Las personas con discapacidad visual tienen dificultades para ver, lo que puede afectar su capacidad para realizar tareas cotidianas y su calidad de vida.",
+            "subtitulo": "¿Quiénes son?",
+            "info": "Las personas con discapacidad visual son aquellas que tienen una disminución de la capacidad para ver, ya sea de forma parcial o total. Esta condición puede ser congénita o adquirida durante la vida. Las personas con discapacidad visual tienen necesidades especiales para poder acceder a la información y realizar actividades cotidianas, como la lectura de textos, la escritura, el desplazamiento, el acceso a la información en línea y la realización de tareas en el trabajo y en la escuela.",
+            "subtitulo": "Tipos de Discapacidad Visual",
+            "info": "Existen diferentes tipos de discapacidad visual, cada uno con su propia sintomatología y características específicas, como la ceguera total, la ceguera nocturna, la miopía, la hipermetropía, el astigmatismo, el estrabismo, entre otras.",
+            "subtitulo": "Apoyos",
+            "info": "Afortunadamente, existen diversos apoyos disponibles para las personas con discapacidad visual que les permiten superar las barreras que enfrentan. Estos incluyen: 1. Tecnología de asistencia: como las lupas electrónicas, los lectores de pantalla, las teclas de acceso rápido, entre otros, que permiten a las personas con discapacidad visual acceder a la información y realizar actividades cotidianas de manera más fácil y eficiente. 2. Servicios de apoyo: como los servicios de guía, los perros guía, los servicios de transporte y otros servicios que les permiten a las personas con discapacidad visual desplazarse con mayor facilidad y seguridad. En conclusión, es importante que estas personas reciban el apoyo y la atención necesarios para poder disfrutar de una vida plena y autónoma."
+        }
+    },
+    {
+        "filtro": "articulos",
+        "imagen": "img/post-5.jpg",
+        "categoria": "Articulos",
+        "url": "post-page.html",
+        "titulo": "Personas con discapacidad visual",
+        "fecha": "10 Feb 2024",
+        "descripcion": "La discapacidad visual es una condición que afecta a un gran número de personas en todo el mundo. Las personas con discapacidad visual tienen dificultades para ver, lo que puede afectar su capacidad para realizar tareas cotidianas y su calidad de vida.",
+        "contenido": {
+            "intro": "La discapacidad visual es una condición que afecta a un gran número de personas en todo el mundo. Las personas con discapacidad visual tienen dificultades para ver, lo que puede afectar su capacidad para realizar tareas cotidianas y su calidad de vida.",
+            "subtitulo": "¿Quiénes son?",
+            "info": "Las personas con discapacidad visual son aquellas que tienen una disminución de la capacidad para ver, ya sea de forma parcial o total. Esta condición puede ser congénita o adquirida durante la vida. Las personas con discapacidad visual tienen necesidades especiales para poder acceder a la información y realizar actividades cotidianas, como la lectura de textos, la escritura, el desplazamiento, el acceso a la información en línea y la realización de tareas en el trabajo y en la escuela.",
+            "subtitulo": "Tipos de Discapacidad Visual",
+            "info": "Existen diferentes tipos de discapacidad visual, cada uno con su propia sintomatología y características específicas, como la ceguera total, la ceguera nocturna, la miopía, la hipermetropía, el astigmatismo, el estrabismo, entre otras.",
+            "subtitulo": "Apoyos",
+            "info": "Afortunadamente, existen diversos apoyos disponibles para las personas con discapacidad visual que les permiten superar las barreras que enfrentan. Estos incluyen: 1. Tecnología de asistencia: como las lupas electrónicas, los lectores de pantalla, las teclas de acceso rápido, entre otros, que permiten a las personas con discapacidad visual acceder a la información y realizar actividades cotidianas de manera más fácil y eficiente. 2. Servicios de apoyo: como los servicios de guía, los perros guía, los servicios de transporte y otros servicios que les permiten a las personas con discapacidad visual desplazarse con mayor facilidad y seguridad. En conclusión, es importante que estas personas reciban el apoyo y la atención necesarios para poder disfrutar de una vida plena y autónoma."
+        }
+    },
+    {
+        "categoria": "Oportunidades",
+        "imagen": "img/post-2.jpg",
+        "titulo": "Curso de Formación para la Inserción laboral",
+        "fecha": "30 Mar 2023",
+        "descripcion": "Inscríbete GRATIS en nuestro Curso de Formación para la inserción laboral de personas con discapacidad y desarrolla tus habilidades en el mundo laboral.",
+        "url": "https://www.facebook.com/infodisperu/posts/644682261001917",
+        "filtro": "oportunidades"
+    },
+    {
+        "categoria": "Oportunidades",
+        "imagen": "img/post-4.jpg",
+        "titulo": "Engie Energía Perú",
+        "fecha": "24 Mar 2023",
+        "descripcion": "📌 Asistente de Administración y Servicios Generales\n📌 Más información en: https://www.incluyeme.com.pe/.../asistente-de.../",
+        "url": "https://www.facebook.com/infodisperu/posts/640889248047885",
+        "filtro": "oportunidades"
+    },
+    {
+        "categoria": "Oportunidades",
+        "imagen": "img/post-4.jpg",
+        "titulo": "Natura Perú",
+        "fecha": "24 Mar 2023",
+        "descripcion": "📌 Laboratorio de inclusión – Natura&Co 2023\n📌 Más información en: https://www.incluyeme.com.pe/.../laboratorio-de.../",
+        "url": "https://www.facebook.com/infodisperu/posts/640889741381169",
+        "filtro": "oportunidades"
+    },
+    {
+        "categoria": "Oportunidades",
+        "imagen": "img/post-4.jpg",
+        "titulo": "Sodimac",
+        "fecha": "24 Mar 2023",
+        "descripcion": "📌 Programa Junto a Ti para personas con discapacidad 2023 📌 Tienes toda información en el siguiente link: https://pe.bebee.com/.../20230313...",
+        "url": "https://www.facebook.com/infodisperu/posts/636241638512646",
+        "filtro": "oportunidades"
+    },
+    {
+        "categoria": "Oportunidades",
+        "imagen": "img/post-4.jpg",
+        "titulo": "Berlitz",
+        "fecha": "17 Mar 2023",
+        "descripcion": "📌 Auxiliar Administrativo - Exclusivo para personal con discapacidad 📌 Tienes toda información en el siguiente link: https://www.linkedin.com/.../auxiliar-administrativo.../",
+        "url": "https://www.facebook.com/infodisperu/posts/636238235179653",
+        "filtro": "oportunidades"
+    },
+    {
+        "categoria": "Oportunidades",
+        "imagen": "img/post-4.jpg",
+        "titulo": "Grupo Centenario",
+        "fecha": "11 Mar 2023",
+        "descripcion": "📌 Coordinador de Marketing, Trabajo presencial – Full time. 📌 Tienes toda información en el siguiente link: https://centenario.com.pe/.../deseo-trabajar-en-centenario/",
+        "url": "https://www.facebook.com/infodisperu/posts/631950365608440",
+        "filtro": "oportunidades"
+    },
+    {
+        "categoria": "Oportunidades",
+        "imagen": "img/post-2.jpg",
+        "titulo": "Webinar gratuito sobre Empleabilidad Inclusiva",
+        "fecha": "10 Mar 2023",
+        "descripcion": "No te pierdas este Webinar gratuito sobre Empleabilidad Inclusiva para empresas! Únete al seminario organizado por Grupo Fundades y el proyecto Inclutec el miércoles 15 de marzo.",
+        "url": "https://www.facebook.com/infodisperu/posts/631326022337541",
+        "filtro": "oportunidades"
+    }
+]
