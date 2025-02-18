@@ -116,22 +116,29 @@
         "titulo": "Cómo tratar la tartamudez",
         "fecha": "10 Feb 2024",
         "descripcion": "La tartamudez es un trastorno de la fluidez del habla que se caracteriza por interrupciones en la emisión de palabras, repeticiones de sonidos, sílabas, palabras o frases, prolongaciones de sonidos, bloqueos en la emisión del habla y dificultad para iniciar el habla.",
-        "contenido": {
+        "contenido": [{
             "subtitulo": "Incidencia en adultos y en los niños",
-            "info": "La incidencia de la tartamudez varía dependiendo de la edad de la población. Se estima que la tartamudez afecta a 1 de cada 100 personas adultas; mientras que, en la población infantil, la prevalencia es mayor, afectando aproximadamente a 4 de cada 100 niños en algún momento de su desarrollo del habla.La tartamudez es más común en niños entre 2 y 6 años, ya que es cuando están aprendiendo a hablar y pueden presentar algunas dificultades temporales para coordinar los músculos necesarios para el habla fluida. Aproximadamente el 80% de los niños que presentan tartamudez en esta edad superan el problema de forma espontánea.Sin embargo, en algunos casos, la tartamudez puede persistir en la adolescencia y en la edad adulta. Se estima que aproximadamente el 1% de la población adulta experimenta tartamudez persistente, lo que puede afectar a su capacidad para comunicarse de forma eficaz, tanto en situaciones sociales como en las laborales.",
+            "info": "La incidencia de la tartamudez varía dependiendo de la edad de la población. Se estima que la tartamudez afecta a 1 de cada 100 personas adultas; mientras que, en la población infantil, la prevalencia es mayor, afectando aproximadamente a 4 de cada 100 niños en algún momento de su desarrollo del habla.La tartamudez es más común en niños entre 2 y 6 años, ya que es cuando están aprendiendo a hablar y pueden presentar algunas dificultades temporales para coordinar los músculos necesarios para el habla fluida. Aproximadamente el 80% de los niños que presentan tartamudez en esta edad superan el problema de forma espontánea.Sin embargo, en algunos casos, la tartamudez puede persistir en la adolescencia y en la edad adulta. Se estima que aproximadamente el 1% de la población adulta experimenta tartamudez persistente, lo que puede afectar a su capacidad para comunicarse de forma eficaz, tanto en situaciones sociales como en las laborales."},
+            {
             "subtitulo": "Tratamientos de la tartamudez",
-            "info": "El tratamiento para la tartamudez puede variar dependiendo del caso y la gravedad de la condición.Algunas opciones de tratamiento incluyen terapia del habla, terapia psicológica, medicamentos, dispositivos de ayuda y grupos de apoyo. Veamos a continuación cada uno de ellos.",
+            "info": "El tratamiento para la tartamudez puede variar dependiendo del caso y la gravedad de la condición.Algunas opciones de tratamiento incluyen terapia del habla, terapia psicológica, medicamentos, dispositivos de ayuda y grupos de apoyo. Veamos a continuación cada uno de ellos."},
+            {
             "subtitulo2": "Terapia del habla",
-            "info2": "La terapia del habla es la forma más común de tratamiento y puede involucrar una variedad de técnicas, como la terapia de reducción de la tensión, que se enfoca en reducir la tensión muscular que puede estar contribuyendo a la tartamudez. La terapia de fluidez también puede utilizarse para mejorar la coordinación de los movimientos necesarios para el habla fluida.",
+            "info2": "La terapia del habla es la forma más común de tratamiento y puede involucrar una variedad de técnicas, como la terapia de reducción de la tensión, que se enfoca en reducir la tensión muscular que puede estar contribuyendo a la tartamudez. La terapia de fluidez también puede utilizarse para mejorar la coordinación de los movimientos necesarios para el habla fluida."},
+            {
             "subtitulo2": "Terapia psicológica",
-            "info2": "La terapia psicológica puede ayudar a las personas con tartamudez a manejar la ansiedad y el estrés relacionados con el trastorno.",
+            "info2": "La terapia psicológica puede ayudar a las personas con tartamudez a manejar la ansiedad y el estrés relacionados con el trastorno."},
+            {
             "subtitulo2": "Medicamentos",
-            "info2": "Los medicamentos, como los tranquilizantes, también pueden ayudar a reducir los síntomas de la tartamudez.",
+            "info2": "Los medicamentos, como los tranquilizantes, también pueden ayudar a reducir los síntomas de la tartamudez."
+            },
+            {
             "subtitulo2": "Dispositivos de ayuda",
-            "info2": "Los dispositivos de ayuda, como los dispositivos de retraso de la audición, pueden proporcionar retroalimentación y ayudar a las personas a controlar su habla.",
+            "info2": "Los dispositivos de ayuda, como los dispositivos de retraso de la audición, pueden proporcionar retroalimentación y ayudar a las personas a controlar su habla."},
+            {
             "subtitulo2": "Grupos de apoyo",
             "info2": "Los grupos de apoyo pueden proporcionar un ambiente de apoyo donde las personas con tartamudez pueden compartir sus experiencias y aprender de otros que han pasado por situaciones similares."
-        }
+        }]
     },
     {
         "filtro": "articulos",
@@ -141,17 +148,20 @@
         "titulo": "La lengua de señas en Perú (LSP)",
         "fecha": "10 Feb 2024",
         "descripcion": "La Comunidad Sorda está integrada por personas sordas y oyentes, de cualquier condición personal y social, que comparten el mismo legado lingüístico y cultural.",
-        "contenido": {
+        "contenido": [{
             "subtitulo": "Comunidad sorda en Perú",
-            "info": "La Comunidad Sorda está integrada por personas sordas y oyentes, de cualquier condición personal y social, que comparten el mismo legado lingüístico y cultural. Se define el Mundo Sordo como un grupo de personas con características comunes y una forma de vida particular, que poseen conocimientos de su mundo y comparten experiencias de lo que es ser Sordo (Lane, H. et al, 1996). Según el Censo Nacional de Población (INEI-2017), en el Perú hay 232 176 personas con dificultad para oír, cifra que representa el 7,6 % de las personas con discapacidad. De acuerdo con este censo, 8 790 personas con discapacidad registraron la Lengua de Señas Peruana (LSP) como lengua materna.",
+            "info": "La Comunidad Sorda está integrada por personas sordas y oyentes, de cualquier condición personal y social, que comparten el mismo legado lingüístico y cultural. Se define el Mundo Sordo como un grupo de personas con características comunes y una forma de vida particular, que poseen conocimientos de su mundo y comparten experiencias de lo que es ser Sordo (Lane, H. et al, 1996). Según el Censo Nacional de Población (INEI-2017), en el Perú hay 232 176 personas con dificultad para oír, cifra que representa el 7,6 % de las personas con discapacidad. De acuerdo con este censo, 8 790 personas con discapacidad registraron la Lengua de Señas Peruana (LSP) como lengua materna."},
+            {
             "subtitulo": "Educación escolar de la comunidad sorda infantil",
-            "info": "“En el Perú, niñas, niños y adolescentes sordos no tienen una educación de calidad. Quienes acceden a la educación, abandonan los estudios y no logran terminar la secundaria. Asimismo, aquellas pocas personas sordas que terminan el colegio tienen muchas barreras para acceder a la educación superior. Esta situación demanda una respuesta inmediata para hacer efectivo el derecho fundamental a la educación de estas personas, sin discriminación y sobre la base de la igualdad de oportunidades”, acotó la funcionaria. En este contexto, la Defensoría del Pueblo recuerda al Estado la obligación de promover la formación de docentes e intérpretes con dominio de la LSP, así como el desarrollo de actividades de investigación, enseñanza y difusión de esta Lengua de señas y otros sistemas alternativos, a fin de asegurar el acceso de las personas sordas a los servicios públicos y el ejercicio de sus derechos.",
+            "info": "“En el Perú, niñas, niños y adolescentes sordos no tienen una educación de calidad. Quienes acceden a la educación, abandonan los estudios y no logran terminar la secundaria. Asimismo, aquellas pocas personas sordas que terminan el colegio tienen muchas barreras para acceder a la educación superior. Esta situación demanda una respuesta inmediata para hacer efectivo el derecho fundamental a la educación de estas personas, sin discriminación y sobre la base de la igualdad de oportunidades”, acotó la funcionaria. En este contexto, la Defensoría del Pueblo recuerda al Estado la obligación de promover la formación de docentes e intérpretes con dominio de la LSP, así como el desarrollo de actividades de investigación, enseñanza y difusión de esta Lengua de señas y otros sistemas alternativos, a fin de asegurar el acceso de las personas sordas a los servicios públicos y el ejercicio de sus derechos."},
+            {
             "subtitulo": "Forma de vida",
-            "info": "Muchas personas que pertenecen al mundo sordo nacieron en él, pero existe también un número importante que se incorpora en la adultez. Las personas sordas tienen dificultades para acceder a servicios públicos por la falta de intérpretes en lengua de señas peruana. Este mundo tiene su propia lengua y cultura, no les gusta ser llamados impedidos auditivos, discapacitados o ser calificados por lo que no tienen; para ellos lo importante es lo que son, personas eminentemente visuales, y lo que tienen para comunicarse: sus manos y cuerpo. Los sordos, como personas visuales, conforman una comunidad con una cultura propia, comparten una serie de características que difieren del grupo mayoritario oyente, presentando características semejantes a las de otros pueblos minoritarios, como por ejemplo, los pueblos indígenas. Tienen una lengua viso-gestual que les es propia, la Lengua de Señas, y una serie de costumbres y valores surgidos de su condición visual, como la manera de saludarse, de despedirse, de felicitar y de aplaudir, entre otras. Poseen también sus propias reglas en las interacciones sociales, conformando clubes y asociaciones donde comparten sus intereses, gustos, necesidades y en los cuales se permiten ser y expresarse en toda su dimensión.",
+            "info": "Muchas personas que pertenecen al mundo sordo nacieron en él, pero existe también un número importante que se incorpora en la adultez. Las personas sordas tienen dificultades para acceder a servicios públicos por la falta de intérpretes en lengua de señas peruana. Este mundo tiene su propia lengua y cultura, no les gusta ser llamados impedidos auditivos, discapacitados o ser calificados por lo que no tienen; para ellos lo importante es lo que son, personas eminentemente visuales, y lo que tienen para comunicarse: sus manos y cuerpo. Los sordos, como personas visuales, conforman una comunidad con una cultura propia, comparten una serie de características que difieren del grupo mayoritario oyente, presentando características semejantes a las de otros pueblos minoritarios, como por ejemplo, los pueblos indígenas. Tienen una lengua viso-gestual que les es propia, la Lengua de Señas, y una serie de costumbres y valores surgidos de su condición visual, como la manera de saludarse, de despedirse, de felicitar y de aplaudir, entre otras. Poseen también sus propias reglas en las interacciones sociales, conformando clubes y asociaciones donde comparten sus intereses, gustos, necesidades y en los cuales se permiten ser y expresarse en toda su dimensión."},
+            {
             "subtitulo": "Lengua de señas peruana (LSP)",
             "info": "La lengua de señas nacional viene siendo designada, en la literatura especializada, con los nombres de “Lenguaje de Señas Peruanas”, “Lengua de Señas Peruanas” y “Lengua de Señas Peruana (LSP)”, siendo este último el que fue reconocido por la República del Perú en 2010 (en La Ley 29535). Esta lengua posee su propia gramática, sintaxis y léxico. Es una lengua autóctona, originaria del Perú, creada y utilizada por la Comunidad sorda del país. Su léxico y gramática es propio, y difiere del de cualquier otra lengua oral en Perú, así como de otras lenguas de señas en el mundo, si bien cuenta con algunas influencias externas, de otras lenguas de señas, como de la lengua de signos española y de la lengua de señas americana, entre otras."
         }
-    },
+]},
     {
         "filtro": "articulos",
         "imagen": "img/post-3.jpg",
@@ -160,19 +170,23 @@
         "titulo": "La hiperactividad (TDAH)",
         "fecha": "10 Feb 2024",
         "descripcion": "El TDAH (Trastorno por Déficit de Atención e Hiperactividad) es un trastorno neurobiológico del desarrollo que se caracteriza por problemas en la atención, la impulsividad y la hiperactividad.",
-        "contenido": {
+        "contenido": [{
             "subtitulo": "Qué es el TDAH",
-            "info": "El TDAH (Trastorno por Déficit de Atención e Hiperactividad) es un trastorno neurobiológico del desarrollo que se caracteriza por problemas en la atención, la impulsividad y la hiperactividad.",
+            "info": "El TDAH (Trastorno por Déficit de Atención e Hiperactividad) es un trastorno neurobiológico del desarrollo que se caracteriza por problemas en la atención, la impulsividad y la hiperactividad."},
+            {
             "subtitulo": "Síntomas",
-            "info": "Las personas con TDAH pueden tener dificultades para concentrarse en tareas que requieren atención sostenida, ser impulsivos y actuar sin pensar en las consecuencias, y tener una excesiva actividad física y mental. Este trastorno puede afectar negativamente a la vida académica, laboral y social de las personas que lo padecen, pero con el tratamiento adecuado, pueden aprender a controlar sus síntomas y llevar una vida plena y satisfactoria.",
+            "info": "Las personas con TDAH pueden tener dificultades para concentrarse en tareas que requieren atención sostenida, ser impulsivos y actuar sin pensar en las consecuencias, y tener una excesiva actividad física y mental. Este trastorno puede afectar negativamente a la vida académica, laboral y social de las personas que lo padecen, pero con el tratamiento adecuado, pueden aprender a controlar sus síntomas y llevar una vida plena y satisfactoria."},
+            {
             "subtitulo": "Tipos de Tratamientos",
-            "info": "Existen varios tipos de tratamiento para el Trastorno por Déficit de Atención e Hiperactividad (TDAH), y el enfoque de tratamiento dependerá de la severidad de los síntomas, la edad del individuo y otros factores personales. Algunos de los tratamientos más comunes son:",
+            "info": "Existen varios tipos de tratamiento para el Trastorno por Déficit de Atención e Hiperactividad (TDAH), y el enfoque de tratamiento dependerá de la severidad de los síntomas, la edad del individuo y otros factores personales. Algunos de los tratamientos más comunes son:"},
+            {
             "subtitulo2": "Conductual",
-            "info": "La terapia conductual es una forma de tratamiento en la que los pacientes aprenden a modificar su forma de comportarse mediante técnicas de recompensa y refuerzo positivo. Esto puede incluir el entrenamiento en habilidades sociales, técnicas de relajación y estrategias para manejar el tiempo. Además, se acompaña de terapia psicológica, como la terapia cognitivo-conductual, puede ayudar a las personas con TDAH a comprender y manejar sus emociones, mejorar su autoestima y desarrollar habilidades para enfrentar situaciones difíciles. Lo que les permitirá modificar el comportamiento.",
+            "info2": "La terapia conductual es una forma de tratamiento en la que los pacientes aprenden a modificar su forma de comportarse mediante técnicas de recompensa y refuerzo positivo. Esto puede incluir el entrenamiento en habilidades sociales, técnicas de relajación y estrategias para manejar el tiempo. Además, se acompaña de terapia psicológica, como la terapia cognitivo-conductual, puede ayudar a las personas con TDAH a comprender y manejar sus emociones, mejorar su autoestima y desarrollar habilidades para enfrentar situaciones difíciles. Lo que les permitirá modificar el comportamiento."},
+            {
             "subtitulo2": "Farmacológico",
-            "info": "Los medicamentos estimulantes, como el metilfenidato y la anfetamina, son a menudo prescritos para reducir la hiperactividad y mejorar la atención en personas con TDAH. Estos medicamentos ayudan a regular los niveles de dopamina y norepinefrina en el cerebro, mejorando la función cognitiva. Los cambios en la dieta, el ejercicio regular y la implementación de rutinas diarias estructuradas también pueden ayudar a reducir los síntomas de TDAH y mejorar la calidad de vida. Es importante tener en cuenta que cada persona es única y puede responder de manera diferente a los tratamientos. Es recomendable trabajar con un profesional de la salud mental para desarrollar un plan de tratamiento individualizado y efectivo."
+            "info2": "Los medicamentos estimulantes, como el metilfenidato y la anfetamina, son a menudo prescritos para reducir la hiperactividad y mejorar la atención en personas con TDAH. Estos medicamentos ayudan a regular los niveles de dopamina y norepinefrina en el cerebro, mejorando la función cognitiva. Los cambios en la dieta, el ejercicio regular y la implementación de rutinas diarias estructuradas también pueden ayudar a reducir los síntomas de TDAH y mejorar la calidad de vida. Es importante tener en cuenta que cada persona es única y puede responder de manera diferente a los tratamientos. Es recomendable trabajar con un profesional de la salud mental para desarrollar un plan de tratamiento individualizado y efectivo."
         }
-    },
+]},
     {
         "filtro": "articulos",
         "imagen": "img/post-5.jpg",
@@ -181,30 +195,34 @@
         "titulo": "Personas con discapacidad múltiple",
         "fecha": "10 Feb 2024",
         "descripcion": "La discapacidad múltiple se refiere a la presencia de dos o más discapacidades en una misma persona. Estas pueden afectar a diferentes áreas del desarrollo, como la motricidad, la comunicación, la cognición, la visión o la audición. Estas discapacidades pueden ser congénitas o adquiridas y pueden tener diferentes grados de severidad.",
-        "contenido": {
-            "intro": "La discapacidad múltiple se refiere a la presencia de dos o más discapacidades en una misma persona. Estas pueden afectar a diferentes áreas del desarrollo, como la motricidad, la comunicación, la cognición, la visión o la audición. Estas discapacidades pueden ser congénitas o adquiridas y pueden tener diferentes grados de severidad. Las personas con discapacidad múltiple pueden necesitar apoyo en múltiples áreas de su vida, incluyendo la movilidad, la comunicación, la educación, el trabajo y las relaciones sociales. Es importante reconocer y respetar las capacidades y necesidades individuales de cada persona con discapacidad múltiple, y proporcionar los recursos y apoyos necesarios para que así puedan participar plenamente en la sociedad.",
+        "contenido": [{
+            "intro": "La discapacidad múltiple se refiere a la presencia de dos o más discapacidades en una misma persona. Estas pueden afectar a diferentes áreas del desarrollo, como la motricidad, la comunicación, la cognición, la visión o la audición. Estas discapacidades pueden ser congénitas o adquiridas y pueden tener diferentes grados de severidad. Las personas con discapacidad múltiple pueden necesitar apoyo en múltiples áreas de su vida, incluyendo la movilidad, la comunicación, la educación, el trabajo y las relaciones sociales. Es importante reconocer y respetar las capacidades y necesidades individuales de cada persona con discapacidad múltiple, y proporcionar los recursos y apoyos necesarios para que así puedan participar plenamente en la sociedad."},
+            {
             "subtitulo": "Datos sobre la discapacidad múltiple",
             "info": "Según datos de la Organización Mundial de la Salud (OMS), alrededor del 15% de la población mundial vive con algún tipo de discapacidad, esto supone en números más de 1.000 millones de personas. Sin embargo, no hay cifras precisas sobre la prevalencia específica de la discapacidad múltiple. En cuanto a los niños, se estima que alrededor del 10% de los niños en todo el mundo tienen alguna forma de discapacidad, y muchos de ellos tienen discapacidad múltiple. La discapacidad múltiple puede tener un impacto significativo en el desarrollo y el bienestar de los niños, y puede requerir apoyo adicional en áreas como la educación y la atención médica. La discapacidad múltiple también puede contribuir a la pobreza y la exclusión social. Las personas con discapacidad a menudo enfrentan barreras para acceder a la educación, el trabajo y otros recursos, lo que puede limitar su capacidad para participar plenamente en la sociedad y lograr una vida independiente y satisfactoria. Además, muchos sistemas de apoyo y servicios para personas con discapacidad son insuficientes o inexistentes en muchos países, lo que puede empeorar las desigualdades y la exclusión."
         }
-    },
+]},
     {
         "filtro": "articulos",
-        "imagen": "img/post-5.jpg",
+        "imagen": "img/post-3.jpg",
         "categoria": "Articulos",
         "url": "post-page.html",
         "titulo": "Los trastornos DIS en niños",
         "fecha": "10 Feb 2024",
         "descripcion": "El término «DIS» se utiliza para referirse a diferentes trastornos del neurodesarrollo que afectan habilidades específicas en niños.",
-        "contenido": {
-            "intro": "La discapacidad visual es una condición que afecta a un gran número de personas en todo el mundo. Las personas con discapacidad visual tienen dificultades para ver, lo que puede afectar su capacidad para realizar tareas cotidianas y su calidad de vida.",
+        "contenido": [{
+            "intro": "La discapacidad visual es una condición que afecta a un gran número de personas en todo el mundo. Las personas con discapacidad visual tienen dificultades para ver, lo que puede afectar su capacidad para realizar tareas cotidianas y su calidad de vida."},
+            {
             "subtitulo": "¿Quiénes son?",
-            "info": "Las personas con discapacidad visual son aquellas que tienen una disminución de la capacidad para ver, ya sea de forma parcial o total. Esta condición puede ser congénita o adquirida durante la vida. Las personas con discapacidad visual tienen necesidades especiales para poder acceder a la información y realizar actividades cotidianas, como la lectura de textos, la escritura, el desplazamiento, el acceso a la información en línea y la realización de tareas en el trabajo y en la escuela.",
+            "info": "Las personas con discapacidad visual son aquellas que tienen una disminución de la capacidad para ver, ya sea de forma parcial o total. Esta condición puede ser congénita o adquirida durante la vida. Las personas con discapacidad visual tienen necesidades especiales para poder acceder a la información y realizar actividades cotidianas, como la lectura de textos, la escritura, el desplazamiento, el acceso a la información en línea y la realización de tareas en el trabajo y en la escuela."},
+            {
             "subtitulo": "Tipos de Discapacidad Visual",
-            "info": "Existen diferentes tipos de discapacidad visual, cada uno con su propia sintomatología y características específicas, como la ceguera total, la ceguera nocturna, la miopía, la hipermetropía, el astigmatismo, el estrabismo, entre otras.",
+            "info": "Existen diferentes tipos de discapacidad visual, cada uno con su propia sintomatología y características específicas, como la ceguera total, la ceguera nocturna, la miopía, la hipermetropía, el astigmatismo, el estrabismo, entre otras."},
+            {
             "subtitulo": "Apoyos",
             "info": "Afortunadamente, existen diversos apoyos disponibles para las personas con discapacidad visual que les permiten superar las barreras que enfrentan. Estos incluyen: 1. Tecnología de asistencia: como las lupas electrónicas, los lectores de pantalla, las teclas de acceso rápido, entre otros, que permiten a las personas con discapacidad visual acceder a la información y realizar actividades cotidianas de manera más fácil y eficiente. 2. Servicios de apoyo: como los servicios de guía, los perros guía, los servicios de transporte y otros servicios que les permiten a las personas con discapacidad visual desplazarse con mayor facilidad y seguridad. En conclusión, es importante que estas personas reciban el apoyo y la atención necesarios para poder disfrutar de una vida plena y autónoma."
         }
-    },
+]},
     {
         "filtro": "articulos",
         "imagen": "img/post-5.jpg",
@@ -213,16 +231,21 @@
         "titulo": "Personas con discapacidad visual",
         "fecha": "10 Feb 2024",
         "descripcion": "La discapacidad visual es una condición que afecta a un gran número de personas en todo el mundo. Las personas con discapacidad visual tienen dificultades para ver, lo que puede afectar su capacidad para realizar tareas cotidianas y su calidad de vida.",
-        "contenido": {
-            "intro": "La discapacidad visual es una condición que afecta a un gran número de personas en todo el mundo. Las personas con discapacidad visual tienen dificultades para ver, lo que puede afectar su capacidad para realizar tareas cotidianas y su calidad de vida.",
+        "contenido": [{
+            "intro": "La discapacidad visual es una condición que afecta a un gran número de personas en todo el mundo. Las personas con discapacidad visual tienen dificultades para ver, lo que puede afectar su capacidad para realizar tareas cotidianas y su calidad de vida."},
+            {
             "subtitulo": "¿Quiénes son?",
-            "info": "Las personas con discapacidad visual son aquellas que tienen una disminución de la capacidad para ver, ya sea de forma parcial o total. Esta condición puede ser congénita o adquirida durante la vida. Las personas con discapacidad visual tienen necesidades especiales para poder acceder a la información y realizar actividades cotidianas, como la lectura de textos, la escritura, el desplazamiento, el acceso a la información en línea y la realización de tareas en el trabajo y en la escuela.",
+            "info": "Las personas con discapacidad visual son aquellas que tienen una disminución de la capacidad para ver, ya sea de forma parcial o total. Esta condición puede ser congénita o adquirida durante la vida. Las personas con discapacidad visual tienen necesidades especiales para poder acceder a la información y realizar actividades cotidianas, como la lectura de textos, la escritura, el desplazamiento, el acceso a la información en línea y la realización de tareas en el trabajo y en la escuela."
+            },
+            {
             "subtitulo": "Tipos de Discapacidad Visual",
-            "info": "Existen diferentes tipos de discapacidad visual, cada uno con su propia sintomatología y características específicas, como la ceguera total, la ceguera nocturna, la miopía, la hipermetropía, el astigmatismo, el estrabismo, entre otras.",
+            "info": "Existen diferentes tipos de discapacidad visual, cada uno con su propia sintomatología y características específicas, como la ceguera total, la ceguera nocturna, la miopía, la hipermetropía, el astigmatismo, el estrabismo, entre otras."
+            },
+            {
             "subtitulo": "Apoyos",
             "info": "Afortunadamente, existen diversos apoyos disponibles para las personas con discapacidad visual que les permiten superar las barreras que enfrentan. Estos incluyen: 1. Tecnología de asistencia: como las lupas electrónicas, los lectores de pantalla, las teclas de acceso rápido, entre otros, que permiten a las personas con discapacidad visual acceder a la información y realizar actividades cotidianas de manera más fácil y eficiente. 2. Servicios de apoyo: como los servicios de guía, los perros guía, los servicios de transporte y otros servicios que les permiten a las personas con discapacidad visual desplazarse con mayor facilidad y seguridad. En conclusión, es importante que estas personas reciban el apoyo y la atención necesarios para poder disfrutar de una vida plena y autónoma."
         }
-    },
+]},
     {
         "categoria": "Oportunidades",
         "imagen": "img/post-2.jpg",
