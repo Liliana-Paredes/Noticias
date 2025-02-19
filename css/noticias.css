@@ -10,8 +10,8 @@
 }
 
 :root {
-    --container-color: red;
-    --second-color: blue;
+    --container-color: #ffd62f;
+    --second-color: #00485e;
     --text-color: black;
     --bg-color: #fff;
 }
@@ -38,28 +38,34 @@ section {
 }
 
 /* Estilo de la sección principal */
+/* Estilo de la sección principal */
 .not {
     width: 100%;
     min-height: 440px;
-    background: var(--container-color);
+    background-image: url("../img/img3%20copy.jpg"); /* Corregir espacio en el nombre */
+    background-size: cover; /* Ajusta la imagen para cubrir todo el header */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
+    position: relative;
 }
 
-.not-text {
-    color: var(--bg-color);
-}
+
+
 
 .not-title {
     font-size: 3.5rem;
     font-weight: 700;
+    color: #fff;
 }
 
 .not-subtitle {
     font-size: 1rem;
     font-weight: 400;
+    color: #fff;
 }
 
 /* Filtros de posts */
@@ -97,6 +103,7 @@ section {
     justify-content: center;
     gap: 1.5rem;
 }
+
 
 .post-box {
     background: var(--bg-color);

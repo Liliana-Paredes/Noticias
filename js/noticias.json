@@ -189,7 +189,7 @@
 ]},
     {
         "filtro": "articulos",
-        "imagen": "img/post-5.jpg",
+        "imagen": "img/post-1.jpg",
         "categoria": "Articulos",
         "url": "post-page.html",
         "titulo": "Personas con discapacidad múltiple",
@@ -225,25 +225,33 @@
 ]},
     {
         "filtro": "articulos",
-        "imagen": "img/post-5.jpg",
+        "imagen": "img/post-1.jpg",
         "categoria": "Articulos",
         "url": "post-page.html",
-        "titulo": "Personas con discapacidad visual",
+        "titulo": "Cuáles son los tipos de discapacidad ",
         "fecha": "10 Feb 2024",
-        "descripcion": "La discapacidad visual es una condición que afecta a un gran número de personas en todo el mundo. Las personas con discapacidad visual tienen dificultades para ver, lo que puede afectar su capacidad para realizar tareas cotidianas y su calidad de vida.",
+        "descripcion": "Existen cuatro tipos de discapacidad: la discapacidad física o motora se refiere a problemas de movilidad, la sensorial hace referencia a la pérdida visual o auditiva, la intelectual se refiere a limitaciones para adquirir habilidades cotidianas y la psíquica hace referencia a personas con trastornos psicológicos.",
         "contenido": [{
-            "intro": "La discapacidad visual es una condición que afecta a un gran número de personas en todo el mundo. Las personas con discapacidad visual tienen dificultades para ver, lo que puede afectar su capacidad para realizar tareas cotidianas y su calidad de vida."},
+            "intro": "Hay muchos tipos de discapacidades. Son muy variadas y pueden variar en grados dependiendo de la naturaleza de la discapacidad.  Todos los tipos de discapacidades implican alteraciones que, a su vez, afectan al comportamiento y a las emociones, que van de leves a graves dependiendo de la gravedad.  Algunos individuos pueden tener uno o más tipos de discapacidad que afectan a su comportamiento o a sus emociones. "},
             {
-            "subtitulo": "¿Quiénes son?",
-            "info": "Las personas con discapacidad visual son aquellas que tienen una disminución de la capacidad para ver, ya sea de forma parcial o total. Esta condición puede ser congénita o adquirida durante la vida. Las personas con discapacidad visual tienen necesidades especiales para poder acceder a la información y realizar actividades cotidianas, como la lectura de textos, la escritura, el desplazamiento, el acceso a la información en línea y la realización de tareas en el trabajo y en la escuela."
+            "subtitulo": "TIPOS DE discapacidad – Clasificación Internacional del Funcionamiento de la discapacidad y de la salud (CIF) 2001 ",
+            "info": "Para hablar de tipo de discapacidad tenemos que centrarnos en la Clasificación Internacional del Funcionamiento, de la Discapacidad y de la Salud (CIF), aprobada en 2001 por los 191 países que forman parte de la OMS.  Es una clasificación universal que pretende establecer un marco y un lenguaje estándar para describir la salud y las dimensiones relacionadas.  Se suele denominar CIF porque hace hincapié en la salud y el funcionamiento más que en la discapacidad, entendiendo por funcionamiento lo relativo a las funciones corporales, las actividades y la participación, y por discapacidad lo relativo a las deficiencias, la limitación de la actividad o la restricción de la participación. A continuación, vamos a detallar cada uno de los cuatro tipos de discapacidad que establece. "
             },
             {
-            "subtitulo": "Tipos de Discapacidad Visual",
-            "info": "Existen diferentes tipos de discapacidad visual, cada uno con su propia sintomatología y características específicas, como la ceguera total, la ceguera nocturna, la miopía, la hipermetropía, el astigmatismo, el estrabismo, entre otras."
+            "subtitulo": "Física o motora ",
+            "info": "La discapacidad física es una condición que impide a una persona poder moverse. Mientras que algunas discapacidades son sobrevenidas, es decir, no están presentes desde el nacimiento, otras pueden estar causadas por uno o más miembros (amputados de dos piernas), afecciones neurológicas y problemas en la musculatura y/o el movimiento (por ejemplo, muletas)."
             },
             {
-            "subtitulo": "Apoyos",
-            "info": "Afortunadamente, existen diversos apoyos disponibles para las personas con discapacidad visual que les permiten superar las barreras que enfrentan. Estos incluyen: 1. Tecnología de asistencia: como las lupas electrónicas, los lectores de pantalla, las teclas de acceso rápido, entre otros, que permiten a las personas con discapacidad visual acceder a la información y realizar actividades cotidianas de manera más fácil y eficiente. 2. Servicios de apoyo: como los servicios de guía, los perros guía, los servicios de transporte y otros servicios que les permiten a las personas con discapacidad visual desplazarse con mayor facilidad y seguridad. En conclusión, es importante que estas personas reciban el apoyo y la atención necesarios para poder disfrutar de una vida plena y autónoma."
+            "subtitulo": "Sensorial ",
+            "info": "Es la que hace referencia a las personas que han perdido su capacidad visual o auditiva o a quienes presentan problemas para comunicarse o para utilizar el lenguaje.  "
+        },
+        {
+            "subtitulo": "Intelectual",
+            "info": "La discapacidad intelectual es una discapacidad que hace que las personas tengan una serie de limitaciones a la hora de adquirir las habilidades cotidianas necesarias para responder a las diferentes situaciones de la vida, comprenderlas y comunicarse con los demás. "
+        },
+        {
+            "subtitulo": "Psíquica ",
+            "info": "La discapacidad mental puede estar causada por una serie de afecciones como la epilepsia, los tumores cerebrales, la demencia y los trastornos del espectro autista (TEA). Está relacionada con el comportamiento del individuo o con alteraciones emocionales o cognitivas.  Está relacionado con enfermedades mentales como el trastorno bipolar, la esquizofrenia, la depresión, los trastornos de pánico y el síndrome de Asperger. Aunque a veces una persona puede tener tanto discapacidad mental como intelectual, no siempre están asociadas. Se relaciona con el comportamiento del individuo o con alteraciones de tipo emocional o cognitivo. Está ligada a las enfermedades de tipo mental como, por ejemplo, bipolaridad, esquizofrenia, depresión, trastornos del pánico, síndrome de Asperger o trastornos del espectro autista (TEA). "
         }
 ]},
     {
@@ -308,5 +316,73 @@
         "descripcion": "No te pierdas este Webinar gratuito sobre Empleabilidad Inclusiva para empresas! Únete al seminario organizado por Grupo Fundades y el proyecto Inclutec el miércoles 15 de marzo.",
         "url": "https://www.facebook.com/infodisperu/posts/631326022337541",
         "filtro": "oportunidades"
+    },
+    {
+        "filtro": "articulos",
+        "imagen": "img/post-3.jpg",
+        "categoria": "Articulos",
+        "url": "post-page.html",
+        "titulo": "Aplicaciones que ayudan a las personas con discapacidad",
+        "fecha": "10 Feb 2024",
+        "descripcion": "Existen diferentes aplicaciones que ayudan a las personas con discapacidad a ser más independientes: Google Lens, Háblalo, Lazarillo App, Envision Al, RogerVoice, y Braille Tutor.",
+        "contenido": [
+            {
+            "subtitulo": "Tecnología y discapacidad",
+            "info": "Las personas con discapacidad pueden enfrentarse a muchos retos en su vida diaria. Sin embargo, el estar en un mundo cada vez más automatizado y tecnológico, tiene su parte buena: hay muchas formas de hacer la vida de estas personas más fácil.  Esta tecnología permite que muchas personas que no pueden acceder con los órganos del cuerpo puedan comunicarse con los demás.  En este artículo, a continuación, hablaremos de algunas aplicaciones que te ayudarán a ser más independiente."
+            },
+            {
+            "subtitulo": "Google lens ",
+            "info": "La aplicación ayuda a los discapacitados visuales a identificar plantas, animales, objetos e incluso edificios enfocando la cámara. También es muy útil para traducir textos. Los discapacitados visuales pueden escuchar la traducción leyéndola en voz alta. "
+            },
+            {
+            "subtitulo": "Háblalo",
+            "info": "Es una red social para personas con dificultades para comunicarse. Ya cuenta con más de 65.000 usuarios en el mundo. Además, tiene traductor de texto a voz y viceversa.  "
+        },
+        {
+            "subtitulo": "lazarillo App ",
+            "info": "Es una APP que te dice los lugares cercanos que disponen de audio, y te indica cómo llegar hasta ellos. Las ubicaciones están ordenadas por bloques: transporte, salud, educación, etcétera. "
+        },
+        {
+            "subtitulo": "Envision AI ",
+            "info": "Esta APP reconoce lugares y los describe. Tiene una función Tech que detecta cuando está frente al usuario un amigo o familiar. Además, también puede leer documentos hasta en 60 idiomas."
+        },
+        {
+            "subtitulo": "RogerVoice",
+            "info": "Esta aplicación transcribe las llamadas telefónicas en 100 idiomas. Los usuarios pueden escribir en su chat en vivo, mientras que la persona que responde la llamada escuchará el mensaje."
+        },
+        {
+            "subtitulo": "Braille Tutor",
+            "info": "Es una App para Android e IOS que permite al usuario aprender el sistema Braille con recomendaciones en español y en otros cinco idiomas. También cuenta con una opción de traducción."
+        }
+]},
+{
+    "filtro": "articulos",
+    "imagen": "img/post-3.jpg",
+    "categoria": "Articulos",
+    "url": "post-page.html",
+    "titulo": "¿Cómo abordar la educación de niños con discapacidad? ",
+    "fecha": "10 Feb 2024",
+    "descripcion": "La educación de niños con discapacidad incluye su integración en un sistema educativo lo más normalizado posible. Puede requerir adaptaciones individuales y personalizadas que pueden ser curriculares generales, físicas, de comunicación y curriculares individuales. Hay tres niveles de integración: completo, combinado y transitorio.",
+    "contenido": [
+        {
+        "subtitulo": "Niños con capacidades diferentes de aprendizaje",
+        "info": "Nos referimos a niños con capacidades diferentes cuando tienen dificultad para seguir el mismo ritmo de aprendizaje del grupo y no llegan a cumplir con el programa escolar acorde a su edad y su proceso evolutivo.  Cuando esto es así, estaremos ante un niño o niña que necesita una escolarización y soporte especial, bien sea a nivel individual o grupal, aunque también hay escolares que superan el límite normal. En dicho caso necesitan trabajar actividades que los ayuden a potenciar su alto nivel académico."
+        },
+        {
+        "subtitulo": "Tres grados de integración ",
+        "info": "Los alumnos con discapacidad física, motora, psíquica, o que tengan problemas de conducta, autismo o trastornos de la personalidad, deben integrarse en un sistema educativo lo más normalizado posible. Esto también sucede con los escolares superdotados. Para dicha integración los servicios y/o adaptaciones deberán ir en función de cada caso, siendo por tanto individuales y personalizados. Desde luego, en los casos muy severos habrá que llevar a cabo adaptaciones exclusivas y de forma permanente, incluyendo la asistencia a centros especiales, dado que la mayoría de ellos tienen una autonomía muy escasa.  Hablamos de tres niveles diferenciados:  "
+        },
+        {
+        "subtitulo2": "Nivel completo ",
+        "info2": "En dicho nivel precisan muy pocas adaptaciones del currículo escolar."
+    },
+    {
+        "subtitulo2": "Nivel combinado",
+        "info2": "Sobre todo, precisan adaptaciones pedagógicas relevantes con soporte especial, ya sea de forma individual o en grupo."
+    },
+    {
+        "subtitulo2": "Nivel transitorio",
+        "info2": "En este nivel las adaptaciones curriculares son muy específicas con el objetivo de la autonomía personal y social del escolar, que le permitan una integración social normal, así como el desarrollo de habilidades para un buen desenvolvimiento en la vida cotidiana. Si el caso fuera muy severo, se necesitará su ingreso en un Centro de Educación Especial."
     }
+]}
 ]

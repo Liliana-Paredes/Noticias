@@ -15,6 +15,11 @@ document.addEventListener("DOMContentLoaded", () => {
                 let post = document.createElement("div");
                 post.classList.add("post-box", noticia.filtro);
 
+                // Agregar atributo data-url solo si existe una URL
+                if (noticia.url) {
+                    post.setAttribute("data-url", noticia.url);
+                }
+
                 post.innerHTML = `
                     <img src="${noticia.imagen}" alt="${noticia.titulo}" class="post-img">
                     <h2 class="category">${noticia.categoria}</h2>
@@ -25,6 +30,23 @@ document.addEventListener("DOMContentLoaded", () => {
 
                 container.appendChild(post);
             });
+
+        // Agregar evento de clic a los posts de oportunidades
+        addClickEventToOportunidades();
+    }
+
+    // Función para agregar evento de clic a las oportunidades
+    function addClickEventToOportunidades() {
+        const oportunidades = document.querySelectorAll(".post-box.oportunidades");
+
+        oportunidades.forEach(post => {
+            post.addEventListener("click", function () {
+                const url = this.getAttribute("data-url");
+                if (url) {
+                    window.open(url, "_blank"); // Abre la URL en una nueva pestaña
+                }
+            });
+        });
     }
 
     // Función para mostrar una noticia en post-page.html
